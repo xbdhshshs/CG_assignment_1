@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695320527 source:c:\users\rahil sanghavi\desktop\sample\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<functional>
+	<bits/stdc++.h>
+	<windows.h>
+	"line.h"
+	"circle.h"
+
+1695311669 c:\users\rahil sanghavi\desktop\sample\line.h
+
+1695311677 c:\users\rahil sanghavi\desktop\sample\circle.h
+
